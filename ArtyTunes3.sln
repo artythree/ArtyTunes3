@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtyTunes3", "ArtyTunes3\ArtyTunes3.csproj", "{CEAD58B6-ED97-4D81-914D-4BE1A32D0611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtyTunesTests", "ArtyTunesTests\ArtyTunesTests.csproj", "{999F47A8-D2ED-40EE-9E6C-F44891C49C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAD58B6-ED97-4D81-914D-4BE1A32D0611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAD58B6-ED97-4D81-914D-4BE1A32D0611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAD58B6-ED97-4D81-914D-4BE1A32D0611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAD58B6-ED97-4D81-914D-4BE1A32D0611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999F47A8-D2ED-40EE-9E6C-F44891C49C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999F47A8-D2ED-40EE-9E6C-F44891C49C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999F47A8-D2ED-40EE-9E6C-F44891C49C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999F47A8-D2ED-40EE-9E6C-F44891C49C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F694BA4-CBF3-4BF2-8911-3D1D9DE6ABC4}
+	EndGlobalSection
+EndGlobal
